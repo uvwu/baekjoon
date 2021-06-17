@@ -9,11 +9,6 @@ public class b15650 {
         int m=s.nextInt();
         int[] array=new int[n];
         int[] answer=new int[m];
-        for(int i=0;i<n;i++) {
-            array[i]=i+1;
-        }
-        for(int i=0;i<n;i++){
-            answer[i]=array[i];
-        }
+
     }
 }
