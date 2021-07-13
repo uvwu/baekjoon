@@ -26,7 +26,6 @@ public class b2579 {
             }
             else if(i==1){
                 a[i][Max]=a[i-1][Max]+a[i][index];
-                ss=true;
             }
             else if(i==0) {
                 a[i][Max] = a[i][index];
